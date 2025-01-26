@@ -1,27 +1,5 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"client
-    dev tun
-    remote 147.45.49.72 1194
-    proto udp
-    ...
-    b19fbd77a8319f16a7fcd580597184ce
-dd4cf65d39b026e55c5b63b3d9820640
-a650afc7f83fc99e59114fede49120d4
-0e1280da4e17d693629fdd0be62885eb
-f5293f49763891db480b8e827b2fb271
-5c3f1c3380379c8a375a891704c23522
-dff179cfa2a4724db8425844a161fd16
-1d2e76b7d64228234a023174823a4b3f
-9ecabd0d1acea9bf874d8dbf358dc0b2
-fbdfb3daf2deb46779d420c5bd0b167b
-1142184cfbc17b8366a66903e35480b8
-9dced01946dc2a36353da18f29c8a4df
-07071bfcbe99a513811b20e6d1fba2ea
-cc9ca752aac5cee9740966caaf572fbc
-ce3dd4d07ffb0434c06a7a18aac6fab0
-8582fe357097465895ec936908c56d6e
-    -----END OpenVPN Static key V1-----
-    </tls-auth>"},
+    {"id":0,"file":"client dev tun proto udp ... 8582fe357097465895ec936908c56d6e -----END OpenVPN Static key V1----- </tls-auth>"},
     {"id":1,"file":""}]
 }
