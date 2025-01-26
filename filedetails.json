@@ -1,5 +1,5 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"client dev tun proto udp ... 8582fe357097465895ec936908c56d6e -----END OpenVPN Static key V1----- </tls-auth>"},
+    {"id":0,"file":"client dev tun proto udp ... b19fbd77a8319f16a7fcd580597184ce -----END OpenVPN Static key V1----- </tls-auth>"},
     {"id":1,"file":""}]
 }
